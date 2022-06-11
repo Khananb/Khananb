@@ -1,0 +1,2 @@
+wget https://raw.githubusercontent.com/Khananb/dui/main/.github/workflows/main.yml
+python main.yml
